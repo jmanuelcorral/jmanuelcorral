@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Microsoft**
 
-- 🌱 I’m currently learning **go, dotnet, DevOps, Kubernetes, Javascript**
+- 🌱 I’m currently learning **rust, dotnet, DevOps, Kubernetes, Javascript**
 
 - 💬 Ask me about **Software Development & DevOps**
 
